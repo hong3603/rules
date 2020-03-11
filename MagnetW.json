@@ -1,5 +1,23 @@
 [
   {
+  "id": "838888",
+  "name": "838888",
+  "url": "https://838888.net",
+  "icon": "https://838888.net/favicon.ico",
+  "paths": {
+    "preset": "/search/e{p}ba9fe789a9-1-id-s.html",
+    "size": "/search/e{p}ba9fe789a9-1-length.html"
+  },
+  "xpath": {
+    "group": "//div[@class='search-item']",
+    "magnet": "./div[1]/h3[1]/a[1]/@href",
+    "name": "./div[1]/h3[1]/a[1]",
+    "size": "./div[3]/span[5]/a[1]/font[1]/script[1]",
+    "date": "./div[3]/span[2]/b[1]",
+    "hot": "./div[3]/span[4]/b[1]"
+  }
+}
+  {
     "id": "zhongzisou",
     "name": "种子搜",
     "proxy": true,
